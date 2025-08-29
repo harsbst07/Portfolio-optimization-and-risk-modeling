@@ -16,9 +16,9 @@ b). Rolling standard deviation and risk-adjusted returns.<br>
 Calculation of portfolio-level Sharpe ratios.
 
 **5). Visualization:**<br>
-Portfolio return-risk trade-off.
-Time-series volatility charts.
+a). Portfolio return-risk trade-off.
+b). Time-series volatility charts.
 
-**6). Project Insights**<br>
-Helps in understanding how risk-return trade-offs work in large-cap Indian equities.<br>
-Demonstrates practical implementation of portfolio optimization and volatility modeling.
+**6). Project Insights:**<br>
+a). Helps in understanding how risk-return trade-offs work in large-cap Indian equities.<br>
+b). Demonstrates practical implementation of portfolio optimization and volatility modeling.
