@@ -1,23 +1,24 @@
 # Portfolio-optimization-and-risk-modeling
 This project implements portfolio optimization and risk-return analysis using Python for the top 5 largest Indian companies by market capitalization. It leverages modern portfolio theory (MPT), time series volatility modeling, and Sharpe ratio evaluation to construct efficient portfolios and analyze risk-adjusted performance.
 
-Key Features
-Data Collection & Preprocessing: Historical stock price data of the top 5 Indian companies.
+**Key Features**<br>
+1). Data Collection & Preprocessing:<br>
+Historical stock price data of the top 5 Indian companies.
 
-Portfolio Optimization:
-Mean-variance optimization using Modern Portfolio Theory (Markowitz framework).
+2). Portfolio Optimization:<br>
+Mean-variance optimization using Modern Portfolio Theory (Markowitz framework).<br>
 
-Risk & Volatility Analysis:
-Time-series based volatility estimation.
-Rolling standard deviation and risk-adjusted returns.
+3). Risk & Volatility Analysis:<br>
+a). Time-series based volatility estimation.<br>
+b). Rolling standard deviation and risk-adjusted returns.<br>
 
-Sharpe Ratio Model:
+4). Sharpe Ratio Model:<br>
 Calculation of portfolio-level Sharpe ratios.
 
-Visualization:
+5). Visualization:<br>
 Portfolio return-risk trade-off.
 Time-series volatility charts.
 
-Project Insights
-Helps in understanding how risk-return trade-offs work in large-cap Indian equities.
+6). Project Insights<br>
+Helps in understanding how risk-return trade-offs work in large-cap Indian equities.<br>
 Demonstrates practical implementation of portfolio optimization and volatility modeling.
