@@ -1,6 +1,6 @@
 # Portfolio-optimization-and-risk-modeling
-**Optimal-Investment-Strategy**
-This project implements portfolio optimization and risk-return analysis using Python for the top 5 largest Indian companies by market capitalization. It leverages modern portfolio theory (MPT), time series volatility modeling, and Sharpe ratio evaluation to construct efficient portfolios and analyze risk-adjusted performance.
+**Optimal-Investment-Strategy**<br>
+This project implements portfolio optimization and risk-return analysis using Python for the top 5 largest Indian companies by market capitalization. It leverages modern portfolio theory (MPT), time series volatility modeling, and Sharpe ratio evaluation to construct efficient portfolios and analyze risk-adjusted performance.<br>
 
 **Key Features**<br>
 **1). Data Collection & Preprocessing:**<br>
